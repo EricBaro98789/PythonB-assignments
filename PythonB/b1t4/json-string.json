@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ali",
+        "age": 52,
+        "postcode": 5002
+    },
+    {
+        "name": "Ye",
+        "age": 18,
+        "postcode": 3005
+    },
+    {
+        "name": "Matty",
+        "age": 97,
+        "postcode": 6061
+    },
+    {
+        "name": "Menasha",
+        "age": 21,
+        "postcode": 5000
+    }
+]
